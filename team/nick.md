@@ -1,0 +1,1 @@
+Hi I'm Nick Lavoie. I am a third year at UCSB studying CS.
