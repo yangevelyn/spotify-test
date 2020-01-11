@@ -18,4 +18,4 @@ Be open to others' ideas and questions.
 
 Help each other.
 
-
+Communicate clearly and openly to prevent ambiguity when discussing a problem.
