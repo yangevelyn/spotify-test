@@ -1,6 +1,5 @@
-Darian Sung
-Computer Science Major
-2nd Year at UCSB
+Hello, I'm Darian Sung and I am a second year computer science major
+at UCSB. My hobbies include playing guitar and watching bad movies.
 
 This program will be able to take in two Spotify playlists and determine
 compatibility by their similarities. It will identify same songs, 
