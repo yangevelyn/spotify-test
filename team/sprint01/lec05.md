@@ -12,6 +12,7 @@ Lan-Chi H - Present
 
 Spencer Z - Present
 
+----------------------------------------------
 
 Evelyn - Working on making summary of React
 
